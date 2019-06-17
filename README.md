@@ -1,5 +1,5 @@
 # First try
-this is my another repo on my Github
+this is my another repo in my Github
 
 ### Clone
 git clone https://github.com/rezhariansyah/Github-Lesson.git
